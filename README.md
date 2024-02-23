@@ -1,7 +1,3 @@
-Certainly! Below is a basic README.md template for your Flask and HTML static template-based ML model web app using RandomForest Regressor:
-
----
-
 # Flight Fare Prediction Web App
 
 This is a web application built with Flask that predicts flight fares based on various input parameters such as departure date, arrival date, source, destination, number of stops, and airline using a RandomForest Regressor model.
@@ -79,7 +75,3 @@ Contributions are welcome! If you have any suggestions, bug reports, or feature 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this README.md according to your project's specifics and add any additional information you find relevant.
